@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Preset GLAM JOSM](README.md)
+* [Doc: OSM GLAM](README.md)
 

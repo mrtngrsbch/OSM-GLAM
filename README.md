@@ -1,4 +1,4 @@
-# Preset GLAM JOSM
+# Doc: OSM GLAM
 
 Este preset tiene por finalidad ayudar a la edición de Museos, Galerías, Archivos, Bibliotecas y Patrimonio con la adición de cementerios.
 
@@ -13,14 +13,4 @@ Este preset tiene por finalidad ayudar a la edición de Museos, Galerías, Archi
 * Revisiones
 * Internacionalizar las etiquetas
 * Feedback
-
-### Documentación
-
-[https://wiki.openstreetmap.org/wiki/ES:Argentina/Cultura/GLAM](https://wiki.openstreetmap.org/wiki/ES:Argentina/Cultura/GLAM)
-
-### Grupo OSM GLAM en Telegram
-
-[http://bit.ly/2XdTEjl](http://bit.ly/2XdTEjl)
-
-#### Muchas gracias por usarlo y compartir tus opiniones o tu código
 
