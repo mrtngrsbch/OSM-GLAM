@@ -2,7 +2,7 @@
 
 ## Particularidades
 
-* En la versión 0.0.9 está desarrollado el @90%, a prueba de concepto.
+* Este proyecto intenta documentar el proeycto OSM GLAM [https://wiki.openstreetmap.org/wiki/WikiProject_Argentina/Cultura/GLAM]
 * El logo de Museos Abiertos es momentáneo hasta tener el logo final.
 
 ## Roadmap
