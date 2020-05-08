@@ -16,9 +16,6 @@
 
 ## Quick start video
 
-{% hint style="info" %}
-acuérdate de esto
-{% endhint %}
 
 | g sdfg | s dfg |
 | :--- | :--- |
